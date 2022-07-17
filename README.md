@@ -1,2 +1,2 @@
-# StepicAutoCourse
-#1111
+# Python/Selenium autotests.
+Here are located my simple autotest files.
